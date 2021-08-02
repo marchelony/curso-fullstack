@@ -1,0 +1,54 @@
+header{
+
+	background: linear-gradient(to right, blue, white);
+	font-size: 50px;
+	text-align: center;
+}
+
+section {
+
+	margin-left: 50px;
+
+}
+
+ul {
+
+	color: red;
+	font-family: verdana;
+}
+
+.perfil{
+  
+	
+	width: 500px;
+	height: 100px;
+	font-weight: 1000;
+}
+
+h2{
+
+	font-weight: 1000;
+	text-decoration: underline;
+}
+
+h3{
+
+	text-decoration: underline;
+}
+
+h1{
+
+	color: red;
+	text-decoration: underline;
+}
+
+.formulario{
+
+	text-decoration: underline;
+	font-weight: 1000;
+
+}
+
+.formulario1{
+	background: linear-gradient(to right, white, blue); 
+}
